@@ -2,6 +2,8 @@
 
 # JOIN GAIANET NDOE : [https://gaianet.ai](https://gaianet.ai/reward?invite_code=RkZQWt)
 
+# TUTORIAL FULL VIDEO : https://youtu.be/OPMe2mQrqbA
+
 # TUTORIAL RUNNING NODE :
 
 In VPS or Local ubuntu :
