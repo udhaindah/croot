@@ -16,7 +16,9 @@ curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/
 source /root/.bashrc
 ```
 or u can following this step :
+
 [SCREENSHOT](https://prnt.sc/fBcrgn7pis8q)
+
 Next , u can copy this :
 ```
 gaianet init
