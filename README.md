@@ -28,6 +28,10 @@ After done all. u can start Node :
 gaianet start
 ```
 
+After that, add your Device ID and Node ID to the website. To find out the device id and node id. use this command :
+```
+gaianet info
+```
 
 Uninstall / Delete Node :
 Stop Node :
