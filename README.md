@@ -1,6 +1,6 @@
 # THIS TUTORIAL RUNNING NODE GAIANET + BOT AUTO CHAT AI GAIANET !
 
-# JOIN GAIANET NDOE : [https://gaianet.ai](https://gaianet.ai/reward?invite_code=RkZQWt)
+# JOIN GAIANET NODE : [https://gaianet.ai](https://gaianet.ai/reward?invite_code=RkZQWt)
 
 # TUTORIAL FULL VIDEO : https://youtu.be/OPMe2mQrqbA
 
