@@ -33,6 +33,9 @@ After that, add your Device ID and Node ID to the website. To find out the devic
 gaianet info
 ```
 
+# How to add a domain ? You can see the full video on our Youtube
+
+
 Uninstall / Delete Node :
 Stop Node :
 ```
@@ -42,3 +45,8 @@ Delete Node :
 ```
 curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/uninstall.sh' | bash
 ```
+
+
+# DONT FORGET JOIN CHANNEL :
+[TELEGRAM](https://t.me/SHAREITHUB_COM)
+[YOUTUBE](https://www.youtube.com/channel/UCUvH2S-T6T_hc7DjxhVd28A/)
