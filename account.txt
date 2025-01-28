@@ -1,2 +1,2 @@
 APIKEY
-API_URL
+https://llama3b.gaia.domains/v1/chat/completions
